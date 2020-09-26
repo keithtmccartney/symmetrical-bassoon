@@ -1,6 +1,6 @@
 <template>
-     <b-jumbotron bg-variant="info" header="Bhargav Bachina">
-      <h3>I am Software Developer practicing various technologies and trying to better myself.</h3>
+     <b-jumbotron bg-variant="info" header="Keith McCartney">
+      <h3>I am a Software Developer practicing various technologies and trying to better myself.</h3>
     </b-jumbotron>
 </template>
 
