@@ -5,7 +5,9 @@ Grab the article at [https://medium.com/bb-tutorials-and-thoughts/how-to-build-a
 
 ## Tips/Run
 
-* Abc;
+* npm install;
+* npm run serve;
+* run [http://localhost:8080](http://localhost:8080)
 
 ## What's it all about?
 
