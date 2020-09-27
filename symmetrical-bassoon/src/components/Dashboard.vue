@@ -6,15 +6,15 @@
                 Name:
             </div>
             <div class="col-md-6">
-                First Last
+                Keith McCartney
             </div>
         </div>
         <div class="row">
             <div class="col-md-6">
-                Age:
+                Year of Birth:
             </div>
             <div class="col-md-6">
-                99
+                1986
             </div>
         </div>
         <div class="row">
@@ -22,7 +22,7 @@
                 Occupation:
             </div>
             <div class="col-md-6">
-                blah blah blah
+                Software Developer
             </div>
         </div>
     </b-jumbotron>
